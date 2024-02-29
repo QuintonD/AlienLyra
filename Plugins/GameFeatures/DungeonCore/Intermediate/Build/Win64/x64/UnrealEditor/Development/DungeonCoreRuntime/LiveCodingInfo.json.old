@@ -1,0 +1,19 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.DungeonCoreRuntime.cpp.obj": [
+			"DungeonCoreRuntime.init.gen.cpp.obj",
+			"DungeonRegenExecution.gen.cpp.obj",
+			"DungeonStaminaComponent.gen.cpp.obj",
+			"DungeonStatsComponent.gen.cpp.obj",
+			"DungeonStaminaSet.cpp.obj",
+			"DungeonStats.cpp.obj",
+			"DungeonRegenExecution.cpp.obj",
+			"DungeonStaminaComponent.cpp.obj",
+			"DungeonStatsComponent.cpp.obj",
+			"DungeonCoreRuntimeModule.cpp.obj",
+			"DungeonGameplayTags.cpp.obj",
+			"DungeonTestClass.cpp.obj"
+		]
+	}
+}

@@ -1,0 +1,12 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-DungeonCoreRuntime.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"D:\GameDev\LyraStarterGame2\Intermediate\Build\Win64\x64\LyraEditor\Development\UnrealEd\SharedPCH.UnrealEd.Cpp20.h.obj"
+"D:\GameDev\LyraStarterGame2\Plugins\GameFeatures\DungeonCore\Intermediate\Build\Win64\x64\UnrealEditor\Development\DungeonCoreRuntime\Module.DungeonCoreRuntime.cpp.obj"
+"D:\GameDev\LyraStarterGame2\Plugins\GameFeatures\DungeonCore\Intermediate\Build\Win64\x64\UnrealEditor\Development\DungeonCoreRuntime\Default.rc2.res"
+/OUT:"D:\GameDev\LyraStarterGame2\Plugins\GameFeatures\DungeonCore\Intermediate\Build\Win64\x64\UnrealEditor\Development\DungeonCoreRuntime\UnrealEditor-DungeonCoreRuntime.lib"
